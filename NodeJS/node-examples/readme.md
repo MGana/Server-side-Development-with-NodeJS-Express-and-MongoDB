@@ -37,4 +37,6 @@ To run the Node application, type the following at the prompt:
 npm start
 ```
 
+The closure that JavaScript supports = A function defined inside another function automatically gets access to the variables that are declared in the outer function.
+
 
